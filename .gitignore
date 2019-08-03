@@ -1,0 +1,65 @@
+**/target/
+**/precompiled/
+**/tmp/
+**/logs
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/sonarlint
+.idea/**/codeStyles
+.idea/artifacts
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+# Gradle
+.idea/**/gradle.xml
+# Libraries
+.idea/**/libraries
+# CMake
+cmake-build-debug/
+cmake-build-release/
+# Mongo Explorer plugin
+.idea/**/mongoSettings.xml
+# File-based project format
+*.iws
+# IntelliJ
+out/
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+# JIRA plugin
+atlassian-ide-plugin.xml
+# Cursive Clojure plugin
+.idea/replstate.xml
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+# Editor-based Rest Client
+.idea/httpRequests
+.idea/sbt.xml
+.idea/eslintPlugin.xml
+.idea/checkstyleidea-libs/
+.idea/compiler.xml
+.idea/misc.xml
+*.iml
+.idea/kotlinc.xml
+/.idea/sqldialects.xml
+/.idea/inspectionProfiles/
+.idea/artifacts/ubrir_app_back_war_war_exploded.xml
+.idea/checkstyleidea.tmp/
+.idea/fileTemplates/
+distrib/pom.xml.versionsBackup
+liquibase/pom.xml.versionsBackup
+pom.xml.versionsBackup
+.idea/dataSources.xml
+.idea/play2_compiler_settings.xml
